@@ -1,0 +1,10 @@
+# Medium Post - 2026-01-08
+
+## Title
+[Your article title here]
+
+## Content
+[Your article content here]
+
+## Tags/Keywords
+[Relevant tags for Medium]

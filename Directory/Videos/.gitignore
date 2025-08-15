@@ -1,0 +1,34 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Video files (too large for Git)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.flv
+*.wmv
+*.webm
+
+# Large image files
+*.psd
+*.ai
+*.sketch
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Log files
+*.log
+
+# Cache files
+cache/
+temp/
